@@ -1,0 +1,27 @@
+_repo: Pioneers-of-space-b-A-trip-to-the-Moon-Mars-and-Venus_71138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adamski, George
+    gutenberg_agent_id: '56090'
+    url: http://www.gutenberg.org/2009/agents/56090
+description: ''
+gutenberg_issued: '2023-07-07'
+identifiers:
+  gutenberg: '71138'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=iau.31858026230486&view=1up&seq=5
+pgterms:marc905: 20221125125759adamski
+pgterms:marc906: '1949'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net. (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bno publisher listed, $c1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pioneers of space : $b A trip to the Moon, Mars, and Venus'
+url: http://www.gutenberg.org/ebooks/71138
